@@ -2,4 +2,4 @@ This repository contains jupyter notebooks with Python code recreating selected 
 
 More details shortly.
 
-[1] Under review
+[1] Sharir A, Marangoni P, Zilionis R et al. A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage. Under review.
