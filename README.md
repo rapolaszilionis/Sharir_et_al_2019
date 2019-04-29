@@ -6,15 +6,15 @@ To run the code in the jupyter notebooks, you need to add the following to the r
 2) the repository "SPRING_dev-master", which you can download from [here](https://github.com/AllonKleinLab/SPRING).
 
 ### Interactive SPRING plots
-SPRING[2,3] was used to visualize in 2D and interactively explore single cell RNAseq data. [The first notebook](spring_save_counts_for_all_plots.ipynb) to run saves the count data in a SPRING-compatible format. This is done once for all SPRING subplots, even those used to vizualise only a subset of all cells.
+SPRING[2,3] was used to visualize in 2D and interactively explore single cell RNAseq data. [The first notebook to run](spring_save_counts_for_all_plots.ipynb) saves the count data in a SPRING-compatible format. This is done once for all SPRING subplots, even those used to vizualise only a subset of all cells.
 The following tables summarizes the notebooks to locally recreate SPRING plots shown in the manuscript together with links to online versions of the plots.
 
 First shown in the following figure in [1] | Plot online | Jupyter notebook
  --- | --- | ---
 Fig. 1d | link private prior to publication | [spring_control_epithelial.ipynb](spring_control_epithelial.ipynb)
 Fig. 4f | link private prior to publication | [spring_control_and_injury_epithelial.ipynb](spring_control_and_injury_epithelial.ipynb)
-Fig. S3e | link private prior to publication | [control_class1_no_cc.ipynb](control_class1_no_cc.ipynb)
-Fig. S7a | link private prior to publication | [injury_class1_no_cc.ipynb](injury_class1_no_cc.ipynb)
+Fig. S3e | link private prior to publication | [spring_control_class1_no_cc.ipynb](spring_control_class1_no_cc.ipynb)
+Fig. S7a | link private prior to publication | [spring_injury_class1_no_cc.ipynb](spring_injury_class1_no_cc.ipynb)
 Not in Figures  | link private prior to publication | [spring_control_epithelial.ipynb](spring_control_epithelial.ipynb)
 
 ### Other analyses
