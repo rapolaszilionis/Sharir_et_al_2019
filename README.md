@@ -1,4 +1,4 @@
-This repository contains jupyter notebooks with Python code recreating selected single cell RNAseq data analyses described in [1].
+This repository contains Jupyter notebooks with Python code recreating selected single cell RNAseq data analyses described in [1].
 
 ### Before you can run the code in this repository
 To run the code in the jupyter notebooks, you need to add the following to the repository:
