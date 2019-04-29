@@ -12,10 +12,10 @@ The following tables summarizes the notebooks to locally recreate SPRING plots s
 First shown in the following figure in [1] | Plot online | Jupyter notebook
  --- | --- | ---
 Fig. 1d | link private prior to publication | [spring_control_epithelial.ipynb](spring_control_epithelial.ipynb)
-Fig. 4f | link private prior to publication | [spring_control_and_injury_epithelial.ipynb](spring_control_and_injury_epithelial.ipynb)
-Fig. S3e | link private prior to publication | [spring_control_class1_no_cc.ipynb](spring_control_class1_no_cc.ipynb)
-Fig. S7a | link private prior to publication | [spring_injury_class1_no_cc.ipynb](spring_injury_class1_no_cc.ipynb)
-Not in Figures  | link private prior to publication | [spring_control_epithelial.ipynb](spring_control_epithelial.ipynb)
+Fig. 4f | link private prior to publication | [spring_control_AND_injury_epithelial.ipynb](spring_control_AND_injury_epithelial.ipynb)
+Fig. S3e | link private prior to publication | [spring_control_class1_epithelial_no_cell_cycle.ipynb](spring_control_class1_epithelial_no_cell_cycle.ipynb)
+Fig. S7a | link private prior to publication | [spring_injury_class1_epithelial_no_cell_cycle.ipynb](spring_injury_class1_epithelial_no_cell_cycle.ipynb)
+Not in Figures  | link private prior to publication | [spring_control_epithelial_no_cell_cycle.ipynb](spring_control_epithelial_no_cell_cycle.ipynb)
 
 ### Other analyses
 
