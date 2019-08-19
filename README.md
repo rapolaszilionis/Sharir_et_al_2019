@@ -14,7 +14,7 @@ First shown in the following figure in [1] | Plot online | Jupyter notebook
 Fig. 1d | [control_epithelial](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/control_epithelial) | [spring_control_epithelial.ipynb](spring_control_epithelial.ipynb)
 Fig. 1i | [control_class1_no_cc](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/control_class1_no_cc) | [spring_control_class1_epithelial_no_cell_cycle.ipynb](spring_control_class1_epithelial_no_cell_cycle.ipynb)
 Fig. 4b  | [control_epithelial_no_cc](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/control_epithelial_no_cc) | [spring_control_epithelial_no_cell_cycle.ipynb](spring_control_epithelial_no_cell_cycle.ipynb)
-Fig. 6f | [spring_control_AND_injury_epithelial](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/control_and_injury_epithelial_ | [spring_control_AND_injury_epithelial.ipynb](spring_control_AND_injury_epithelial.ipynb)
+Fig. 6f | [spring_control_AND_injury_epithelial](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/control_and_injury_epithelial) | [spring_control_AND_injury_epithelial.ipynb](spring_control_AND_injury_epithelial.ipynb)
 Fig. S5h | [spring_injury_class1_epithelial_no_cell_cycle](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/injury_class1_no_cc) | [spring_injury_class1_epithelial_no_cell_cycle.ipynb](spring_injury_class1_epithelial_no_cell_cycle.ipynb)
 
 
@@ -22,13 +22,14 @@ Fig. S5h | [spring_injury_class1_epithelial_no_cell_cycle](https://kleintools.hm
 
 Related to the following figures in [1] | Description | Jupyter notebook
 --- | --- | ---
-Fig. 1e | Identify population-enriched genes, plot heatmap, save .rnk files for GSEAPreranked tool | [population_enriched_genes_control_and_save_rnk_files.ipynb](population_enriched_genes_control_and_save_rnk_files.ipynb)
-Fig. 1f | Score cell cycle, classify cells as "G1", "S", "G2/M" | [score_cell_cycle_in_control_epithelial_cells.ipynb](score_cell_cycle_in_control_epithelial_cells.ipynb)
-Fig. 2h | Overlay RNA velocity vectors onto chosen 2D SPRING representation | [project_RNA_velocity_on_control_epithelial_spring_plot.ipynb](project_RNA_velocity_on_control_epithelial_spring_plot.ipynb)
-Fig. 1i, S3g | Order selected cells by pseudotime | [pseudotime_ordering_of_ameloblasts.ipynb](pseudotime_ordering_of_ameloblasts.ipynb)
-Fig. 4g, S6d | Classify single cells by reference transcriptomes using all genes | [classify_injury_cells_by_control_populations.ipynb](classify_injury_cells_by_control_populations.ipynb)
-Fig. 4h, S3e,f, S7a,b | Classify single cells by reference transcriptomes using selected genes | [classify_class1_cells_by_class2_and_3_populations.ipynb](classify_class1_cells_by_class2_and_3_populations.ipynb)
-Fig. S6d | Identify population-enriched genes in injury condition and plot heatmap showing similar expression patterns in counterpart populations in control condition | [gene_expression_similarities_in_same_population_ctrl_vs_injury.ipynb](gene_expression_similarities_in_same_population_ctrl_vs_injury.ipynb)
+Fig. ?? | Identify population-enriched genes, plot heatmap, save .rnk files for GSEAPreranked tool | [population_enriched_genes_control_and_save_rnk_files.ipynb](population_enriched_genes_control_and_save_rnk_files.ipynb)
+Fig. ?? | Score cell cycle, classify cells as "G1", "S", "G2/M" | [score_cell_cycle_in_control_epithelial_cells.ipynb](score_cell_cycle_in_control_epithelial_cells.ipynb)
+Fig. ?? | Overlay RNA velocity vectors onto chosen 2D SPRING representation | [project_RNA_velocity_on_control_epithelial_spring_plot.ipynb](project_RNA_velocity_on_control_epithelial_spring_plot.ipynb)
+Fig. ?? | Order selected cells by pseudotime | [pseudotime_ordering_of_ameloblasts.ipynb](pseudotime_ordering_of_ameloblasts.ipynb)
+Fig. ?? | Classify single cells by reference transcriptomes using all genes | [classify_injury_cells_by_control_populations.ipynb](classify_injury_cells_by_control_populations.ipynb)
+Fig. ?? | Classify single cells by reference transcriptomes using selected genes | [classify_class1_cells_by_class2_and_3_populations.ipynb](classify_class1_cells_by_class2_and_3_populations.ipynb)
+Fig. ?? | Identify population-enriched genes in injury condition and plot heatmap showing similar expression patterns in counterpart populations in control condition | [gene_expression_similarities_in_same_population_ctrl_vs_injury.ipynb](gene_expression_similarities_in_same_population_ctrl_vs_injury.ipynb)
+Fig. ?? | Run FateID | [FateID_dataprep_and_plots.ipynb],[ FateID_R_code.ipynb],[FateID_get_distance_matrix.ipynb]
 
 #### References.  
 [1] Sharir A, Marangoni P, Zilionis R et al. A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage. Nature Cell Biology. Accepted.
