@@ -11,11 +11,12 @@ The following tables summarizes the notebooks to locally recreate SPRING plots s
 
 First shown in the following figure in [1] | Plot online | Jupyter notebook
  --- | --- | ---
-Fig. 1d | link private prior to publication | [spring_control_epithelial.ipynb](spring_control_epithelial.ipynb)
-Fig. 4f | link private prior to publication | [spring_control_AND_injury_epithelial.ipynb](spring_control_AND_injury_epithelial.ipynb)
-Fig. S3e | link private prior to publication | [spring_control_class1_epithelial_no_cell_cycle.ipynb](spring_control_class1_epithelial_no_cell_cycle.ipynb)
-Fig. S7a | link private prior to publication | [spring_injury_class1_epithelial_no_cell_cycle.ipynb](spring_injury_class1_epithelial_no_cell_cycle.ipynb)
-Not in Figures  | link private prior to publication | [spring_control_epithelial_no_cell_cycle.ipynb](spring_control_epithelial_no_cell_cycle.ipynb)
+Fig. 1d | [control_epithelial](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/control_epithelial) | [spring_control_epithelial.ipynb](spring_control_epithelial.ipynb)
+Fig. 1i | [control_class1_no_cc](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/control_class1_no_cc) | [spring_control_class1_epithelial_no_cell_cycle.ipynb](spring_control_class1_epithelial_no_cell_cycle.ipynb)
+Fig. 4b  | [control_epithelial_no_cc](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/control_epithelial_no_cc) | [spring_control_epithelial_no_cell_cycle.ipynb](spring_control_epithelial_no_cell_cycle.ipynb)
+Fig. 6f | [spring_control_AND_injury_epithelial](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/control_and_injury_epithelial_ | [spring_control_AND_injury_epithelial.ipynb](spring_control_AND_injury_epithelial.ipynb)
+Fig. S5h | [spring_injury_class1_epithelial_no_cell_cycle](https://kleintools.hms.harvard.edu/tools/springViewer_1_6_dev.html?datasets/Sharir_et_al_2019/injury_class1_no_cc) | [spring_injury_class1_epithelial_no_cell_cycle.ipynb](spring_injury_class1_epithelial_no_cell_cycle.ipynb)
+
 
 ### Other analyses
 
@@ -30,6 +31,6 @@ Fig. 4h, S3e,f, S7a,b | Classify single cells by reference transcriptomes using 
 Fig. S6d | Identify population-enriched genes in injury condition and plot heatmap showing similar expression patterns in counterpart populations in control condition | [gene_expression_similarities_in_same_population_ctrl_vs_injury.ipynb](gene_expression_similarities_in_same_population_ctrl_vs_injury.ipynb)
 
 #### References.  
-[1] Sharir A, Marangoni P, Zilionis R et al. A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage. UNDER REVIEW.    
+[1] Sharir A, Marangoni P, Zilionis R et al. A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage. Nature Cell Biology. Accepted.
 [2] Weinreb C, Wolock S, Klein AM. SPRING: a kinetic interface for visualizing high dimensional single-cell expression data. Bioinformatics. 2018 Apr 1;34(7):1246–8.  
 [3] https://github.com/AllonKleinLab/SPRING_dev
