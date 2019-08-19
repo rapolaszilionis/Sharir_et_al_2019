@@ -29,7 +29,7 @@ Fig. ?? | Order selected cells by pseudotime | [pseudotime_ordering_of_ameloblas
 Fig. ?? | Classify single cells by reference transcriptomes using all genes | [classify_injury_cells_by_control_populations.ipynb](classify_injury_cells_by_control_populations.ipynb)
 Fig. ?? | Classify single cells by reference transcriptomes using selected genes | [classify_class1_cells_by_class2_and_3_populations.ipynb](classify_class1_cells_by_class2_and_3_populations.ipynb)
 Fig. ?? | Identify population-enriched genes in injury condition and plot heatmap showing similar expression patterns in counterpart populations in control condition | [gene_expression_similarities_in_same_population_ctrl_vs_injury.ipynb](gene_expression_similarities_in_same_population_ctrl_vs_injury.ipynb)
-Fig. ?? | Run FateID | [FateID_dataprep_and_plots.ipynb](FateID_dataprep_and_plots.ipynb),[FateID_R_code.ipynb](FateID_R_code.ipynb),[FateID_get_distance_matrix.ipynb](FateID_get_distance_matrix.ipynb)
+Fig. ?? | Run FateID | [FateID_dataprep_and_plots.ipynb](FateID_dataprep_and_plots.ipynb),\n[FateID_R_code.ipynb](FateID_R_code.ipynb),\n[FateID_get_distance_matrix.ipynb](FateID_get_distance_matrix.ipynb)
 
 #### References.  
 [1] Sharir A, Marangoni P, Zilionis R et al. A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage. Nature Cell Biology. Accepted.
