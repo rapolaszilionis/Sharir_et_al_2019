@@ -32,6 +32,6 @@ Fig. ?? | Identify population-enriched genes in injury condition and plot heatma
 Fig. ?? | Run FateID | [FateID_dataprep_and_plots.ipynb](FateID_dataprep_and_plots.ipynb),[FateID_R_code.ipynb](FateID_R_code.ipynb),[FateID_get_distance_matrix.ipynb](FateID_get_distance_matrix.ipynb)
 
 #### References.  
-[1] Sharir A, Marangoni P, Zilionis R et al. A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage. Nature Cell Biology. Accepted.
+[1] Sharir A, Marangoni P, Zilionis R et al. A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage. Nature Cell Biology. Accepted.  
 [2] Weinreb C, Wolock S, Klein AM. SPRING: a kinetic interface for visualizing high dimensional single-cell expression data. Bioinformatics. 2018 Apr 1;34(7):1246–8.  
 [3] https://github.com/AllonKleinLab/SPRING_dev
