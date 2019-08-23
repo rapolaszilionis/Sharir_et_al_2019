@@ -7,12 +7,12 @@ To run the code in the jupyter notebooks, you need to add the following to the r
 - GSE131204_cell_info_8594x25.tsv
 - GSE131204_gene_names_alphabetically.txt
 - GSE131204_raw_counts_8594x27998.mtx   
-The following files are found under the [sample GSM3767568 (control)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3767568)
+*The following files are found under the [sample GSM3767568 (control)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3767568)*
 - GSM3767568_control_barcodes.tsv
 - GSM3767568_control_genes.tsv
 - GSM3767568_control_loom.loom.hdf5
 - GSM3767568_control_matrix.mtx   
-The following files are found under the [sample GSM3767569 (injury)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3767569)
+*The following files are found under the [sample GSM3767569 (injury)](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3767569)*
 - GSM3767569_injury_barcodes.tsv
 - GSM3767569_injury_genes.tsv
 - GSM3767569_injury_loom.loom.hdf5
