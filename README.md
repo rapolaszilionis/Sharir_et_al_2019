@@ -48,6 +48,6 @@ Fig. S5d | Identify population-enriched genes in injury condition and plot heatm
 
 
 #### References.  
-[1] Sharir A, Marangoni P, Zilionis R et al. A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage. Nature Cell Biology. In print.  
+[1] Sharir A, Marangoni P, Zilionis R, Wan M, Wald T, Hu JK, et al. A large pool of actively cycling progenitors orchestrates self-renewal and injury repair of an ectodermal appendage. Nat Cell Biol. 2019 Sep 1;21(9):1102–12.   
 [2] Weinreb C, Wolock S, Klein AM. SPRING: a kinetic interface for visualizing high dimensional single-cell expression data. Bioinformatics. 2018 Apr 1;34(7):1246–8.  
 [3] https://github.com/AllonKleinLab/SPRING_dev
